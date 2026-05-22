@@ -165,18 +165,24 @@ class FouadWRE:
 
 ## 🌍 Connect With Me
 
+📧 Email: belabbasdaniel@gmail.com  
+💬 Telegram: https://t.me/DevFouad  
+
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/FouadWre-Dev">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:belabbasdaniel@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://t.me/DevFouad">
+<img src="https://skillicons.dev/icons?i=telegram" />
 </a>
 
 </p>
 
----
 
-<div align="center">
 
-### ⚔️ “Code is not just syntax. It's power.”
-
-</div>
