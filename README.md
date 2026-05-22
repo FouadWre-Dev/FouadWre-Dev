@@ -1,71 +1,35 @@
-# Hi, I'm fouad wre 🚀
+for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
 
-![Profile Banner](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
----
+```txt
+TypeScript   12 hrs 53 mins        ████████████████████░░░░░   80.53 %
+Markdown     34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+JSON         33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+JavaScript   28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Other        20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+```
 
-## 👨‍💻 About Me
+<!--END_SECTION:waka-->
 
-I'm a passionate **Python Developer** focused on building powerful, efficient, and clean automation tools and system utilities.
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-I enjoy working on:
-- ⚙️ Automation & scraping systems
-- 🔐 Proxy & network tools
-- 🧠 Performance optimization
-- 🖥️ Desktop tools with PyQt5
-- 🚀 Clean architecture projects
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
----
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
-## 🧠 Current Focus
 
-- Improving high-performance Python systems
-- Building scalable proxy-based tools
-- Designing clean UI tools with PyQt5
-- Learning advanced system-level development
+📈 my github stats
 
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="10%"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="10%"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="10%"/>
-  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" width="10%"/>
-  <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" width="10%"/>
-</p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fouad-wre&show_icons=true&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🔥 Proxy Premium Scanner (High-performance proxy checker)
-- ⚡ Automation Frameworks for Python tools
-- 🧩 System utilities & debugging tools
-- 🖥️ PyQt5 desktop applications
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/fouad-wre  
-- Email: fouad.wre@example.com  
-
----
-
-## ⚡ Fun Fact
-
-I prefer building tools from scratch rather than using ready-made solutions.
-
----
-
-> “Clean code is not written, it is refined.”
