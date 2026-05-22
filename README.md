@@ -64,7 +64,7 @@ I don't just write code — I build complete solutions with clean architecture, 
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,qt,git,github,sqlite,mysql,postgres,vscode,linux,bash,js,html,css,fastapi,flask,docker" />
+<img src="https://skillicons.dev/icons?i=python,qt,git,github,sqlite,mysql,vscode,fastapi" />
 
 </p>
 
